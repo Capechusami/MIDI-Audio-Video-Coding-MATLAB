@@ -10,7 +10,7 @@ This work was carried out as part of the **Multimedia Technologies** laboratory 
 
 ## 🎯 Objectives
 
-* Analyze MIDI data using MATLAB
+* Analyze MIDI data using MATLAB 
 * Extract musical features such as pitch, duration, and velocity
 * Perform statistical analysis on MIDI files
 * Apply MIDI transformations like transposition and quantization
@@ -73,38 +73,18 @@ The project is implemented using MATLAB script sections:
 
 The MIDI file was successfully loaded and analyzed. Statistical analysis revealed clear pitch-class and duration patterns representing the musical structure. MIDI transformations preserved musical coherence while modifying timing and pitch. Visualization techniques provided clear insight into note distribution, and audio playback confirmed successful synthesis.
 
+![image alt](https://github.com/Capechusami/MIDI-Audio-Video-Coding-MATLAB/blob/e3613ce856ac9b114fa141f2ffd76e37f64536f8/Figure%201.png)
+![image alt](https://github.com/Capechusami/MIDI-Audio-Video-Coding-MATLAB/blob/e3613ce856ac9b114fa141f2ffd76e37f64536f8/Figure%202.png)
+![image alt](https://github.com/Capechusami/MIDI-Audio-Video-Coding-MATLAB/blob/e3613ce856ac9b114fa141f2ffd76e37f64536f8/Figure%203.png)
 ---
 
-## ⚠️ Challenges and Observations
-
-* Proper installation and path configuration of the MIDI Toolbox was required
-* Long MIDI playback in MATLAB is difficult to interrupt
-* MIDI files are significantly smaller than audio files while maintaining musical quality
-
----
 
 ## ✅ Conclusion
 
 This project successfully demonstrates MIDI processing for audio and video coding using MATLAB. The experiment highlights the importance of MIDI in multimedia applications due to its efficiency, adaptability, and ease of manipulation.
 
----
-
-## 📚 References
-
-1. Multimedia Technologies Lab Material II
-2. MATLAB Documentation – MIDI and Audio Processing
-3. MIDI Toolbox Documentation
-4. Official MIDI Specification
-
----
 
 ## 👥 Authors
 
 * Samuel Tesfachew
-* Olani Shambel
-* Yeabsira Zerihun
-* Israel Bekele
-* Milkesa Bulti
 
-Department of Computer Science and Engineering
-Adama Science and Technology University
