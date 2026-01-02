@@ -1,0 +1,8 @@
+addpath(genpath('C:\Users\Cap\Documents\MATLAB\MIDI\miditoolbox'));  % Replace with your actual path
+which readmidi
+midiFile = 'AfterTheThrillIsGone.mid';  % Replace with your MIDI file
+[nmat, ~] = readmidi(midiFile);
+disp('Notematrix:');
+disp(nmat);
+pianoroll(namt);
+
