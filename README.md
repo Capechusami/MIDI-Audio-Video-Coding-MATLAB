@@ -72,9 +72,12 @@ The project is implemented using MATLAB script sections:
 ## 📊 Results and Analysis
 
 The MIDI file was successfully loaded and analyzed. Statistical analysis revealed clear pitch-class and duration patterns representing the musical structure. MIDI transformations preserved musical coherence while modifying timing and pitch. Visualization techniques provided clear insight into note distribution, and audio playback confirmed successful synthesis.
+---
 
 ![image alt](https://github.com/Capechusami/MIDI-Audio-Video-Coding-MATLAB/blob/e3613ce856ac9b114fa141f2ffd76e37f64536f8/Figure%201.png)
+---
 ![image alt](https://github.com/Capechusami/MIDI-Audio-Video-Coding-MATLAB/blob/e3613ce856ac9b114fa141f2ffd76e37f64536f8/Figure%202.png)
+---
 ![image alt](https://github.com/Capechusami/MIDI-Audio-Video-Coding-MATLAB/blob/e3613ce856ac9b114fa141f2ffd76e37f64536f8/Figure%203.png)
 ---
 
